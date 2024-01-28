@@ -1,0 +1,10 @@
+[
+  {
+    "posttitle": "Session Vs Cookies",
+    "contents": "A session is used to save information on the server momentarily so that it may be utilized across various pages of the website.A cookie is a small text file that is saved on the user’s computer"
+  },
+  {
+    "posttitle": "What is MVC",
+    "contents": "The Model-View-Controller (MVC) framework is an architectural/design pattern that separates an application into three main logical components Model, View, and Controller"
+  }
+]
